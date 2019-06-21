@@ -3,13 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://arhken666.github.io/</loc>
-    <lastmod>2019-06-20T10:00:27+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://arhken666.github.io/2014/09/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://arhken666.github.io/post/blog/</loc>
+    <loc>https://arhken666.github.io/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/2019/06/peking-touring-first-blog/</loc>
     <lastmod>2019-06-20T10:00:27+08:00</lastmod>
   </url>
   
@@ -20,13 +24,110 @@
   </url>
   
   <url>
-    <loc>https://arhken666.github.io/categories/</loc>
+    <loc>https://arhken666.github.io/</loc>
+    <lastmod>2019-06-20T10:00:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://arhken666.github.io/tags/</loc>
+    <loc>https://arhken666.github.io/2017/04/contact/</loc>
+    <lastmod>2017-04-16T17:54:50+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/2014/04/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/2014/04/getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/1012/01/test-4/</loc>
+    <lastmod>1012-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/tags/test/</loc>
+    <lastmod>1012-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/1012/01/test-3/</loc>
+    <lastmod>1012-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/1012/01/test-2/</loc>
+    <lastmod>1012-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arhken666.github.io/1012/01/test-1/</loc>
+    <lastmod>1012-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
